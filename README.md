@@ -28,7 +28,7 @@ Welcome to the Number Guessing Game! Try to guess the correct number between 1 a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/jamalsalim-js12/number-guessing-game.git
 2. Open the index.html file in your web browser.
 
 ## Technologies Used
